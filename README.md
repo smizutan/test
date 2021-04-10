@@ -1,2 +1,2 @@
 # test
-test repository
+pull requestが問題なくできることの確認
